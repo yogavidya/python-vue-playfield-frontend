@@ -1,3 +1,4 @@
+
 module.exports = {
   publicPath: '/python-playfield',
   devServer: {
@@ -7,6 +8,5 @@ module.exports = {
       'localhost:8080'
     ]
   },
-
   lintOnSave: false
 }
